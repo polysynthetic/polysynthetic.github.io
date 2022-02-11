@@ -4,6 +4,9 @@ font-family: System, sans-serif;
 }
 
 .infobox {
+border: 2px solid black;
+border-radius: 5px;
+padding: 5px;
 font-family: Consolas, Courier New;
 }
  
