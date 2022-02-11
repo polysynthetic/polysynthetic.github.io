@@ -1,15 +1,15 @@
 body {
-font-size: 16px;
+font-size: 10px;
 font-family: Consolas, Courier New;
 }
 
 #top {
 font-family: Arial, sans-serif;
-font-size: 145%;
+font-size: 16px;
 }
 
 .heading {
-font-size: 18px;
+font-size: 14px;
 border-left-style: solid;
 padding: 5px;
 }
