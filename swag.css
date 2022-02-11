@@ -3,7 +3,8 @@ font-size: 16px;
 font-family: System, sans-serif;
 }
 
-.infobox {
+.heading {
+font-size: 25px;
 border-left-style: solid;
 padding: 5px;
 font-family: Consolas, Courier New;
