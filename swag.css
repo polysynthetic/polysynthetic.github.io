@@ -23,12 +23,13 @@ border: 2px solid black;
    width:100%;
 }
 main {
-  width:75%;
-  float:left;
+ width:75%;
+ float:left;
 }
 aside {
-  width:25%;
-  float:left;
+ width:25%;
+ float:left;
+ border-left-style: solid;
 }
 .layout-container:after {
    clear:both;
