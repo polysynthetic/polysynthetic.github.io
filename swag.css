@@ -14,3 +14,7 @@ border-left-style: solid;
 padding: 5px;
 }
  
+img {
+padding: 3.5px;
+border: 2px solid black;
+}
