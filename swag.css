@@ -18,19 +18,3 @@ img {
 padding: 3.5px;
 border: 2px solid black;
 }
-.container {
-   width:100%;
-}
-main {
-width:75%;
-float:left;
-}
-aside {
- width:25%;
- float:right;
- border-left-style: solid;
- top: -100% !important;
-}
-.container:after {
-   clear:both;
-}
