@@ -18,3 +18,9 @@ img {
 padding: 3.5px;
 border: 2px solid black;
 }
+
+.container {
+ display: grid;
+ grid-template-columns: auto 25%;
+ grid-column-gap: 30px;
+}
