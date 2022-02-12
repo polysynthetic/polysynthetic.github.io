@@ -27,8 +27,9 @@ float:left;
 }
 aside {
  width:25%;
- float:left;
+ float:right;
  border-left-style: solid;
+ top: -100%
 }
 .container:after {
    clear:both;
