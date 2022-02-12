@@ -19,8 +19,17 @@ padding: 3.5px;
 border: 2px solid black;
 }
 
-.container {
- display: grid;
- grid-template-columns: auto 25%;
- grid-column-gap: 30px;
+.layout-container {
+   width:100%;
+}
+main {
+  width:75%;
+  float:left;
+}
+aside {
+  width:25%;
+  float:left;
+}
+.layout-container:after {
+   clear:both;
 }
