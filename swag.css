@@ -21,9 +21,9 @@ border: 2px solid black;
 }
 
 .sector:hover:nth-child(odd) {
-background: #eeeeee;
+background: #eaeaee;
 }
 
 .sector:hover:nth-child(even) {
-background: #dddddd;
+background: #ddddeb;
 }
