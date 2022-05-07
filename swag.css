@@ -18,6 +18,7 @@ padding: 3px;
 img {
 padding: 3.5px;
 border: 2px solid black;
+cursor: url(https://files.catbox.moe/untn6k.png), auto;
 }
 
 .sector:hover:nth-child(odd) {
