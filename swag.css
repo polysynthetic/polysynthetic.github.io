@@ -1,6 +1,7 @@
 body {
 font-size: 12px;
 font-family: Fixedsys, Consolas, Courier New;
+cursor: url(https://files.catbox.moe/v6n11y.png), auto;
 }
 
 #top {
@@ -19,6 +20,3 @@ padding: 3.5px;
 border: 2px solid black;
 }
 
-html {
-cursor: url(https://files.catbox.moe/a342uv.png), auto;
-}
