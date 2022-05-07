@@ -20,3 +20,10 @@ padding: 3.5px;
 border: 2px solid black;
 }
 
+.sector:hover:nth-child(odd) {
+background: #eeeeee;
+}
+
+.sector:hover:nth-child(even) {
+background: #dddddd;
+}
