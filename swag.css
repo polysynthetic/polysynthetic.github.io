@@ -1,4 +1,16 @@
+
+@media (prefers-color-scheme: light) {
+.sector:hover:nth-child(odd) {
+background: #eaeaee;
+}
+
+.sector:hover:nth-child(even) {
+background: #ddddeb;
+}
+
 body {
+background-color: #ffffff;
+color: #000000;
 font-size: 12px;
 font-family: Fixedsys, Consolas, Courier New;
 cursor: url(https://files.catbox.moe/v6n11y.png), auto;
@@ -19,33 +31,41 @@ img {
 padding: 3.5px;
 border: 2px solid black;
 }
-
-@media (prefers-color-scheme: light) {
-.sector:hover:nth-child(odd) {
-background: #eaeaee;
+ 
 }
 
-.sector:hover:nth-child(even) {
-background: #ddddeb;
-}
-
-body {
-background-color: #ffffff;
-color: #000000;
-}
-}
+/* dingle dongle */ 
 
 @media (prefers-color-scheme: dark) {
 .sector:hover:nth-child(odd) {
-background: #0a0a1a;
+background: #110606;
 }
 
 .sector:hover:nth-child(even) {
-background: #0d0d1d;
+background: #160909;
 }
 
 body {
-background-color: #020210;
+background-color: #000000;
 color: #ffffff;
+font-size: 12px;
+font-family: Fixedsys, Consolas, Courier New;
+cursor: url(https://files.catbox.moe/k39vvi.png), auto;
+}
+
+#top {
+font-family: Arial, sans-serif;
+font-size: 16px;
+}
+
+.heading {
+font-size: 16px;
+border-left-style: solid;
+padding: 3px;
+}
+ 
+img {
+padding: 3.5px;
+border: 2px solid white;
 }
 }
