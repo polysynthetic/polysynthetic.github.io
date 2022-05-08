@@ -1,11 +1,11 @@
 
 @media (prefers-color-scheme: light) {
 .sector:hover:nth-child(odd) {
-background: #eaeaee;
+background: #cacacf;
 }
 
 .sector:hover:nth-child(even) {
-background: #ddddeb;
+background: #cfcfd8;
 }
 
 body {
