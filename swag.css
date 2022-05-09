@@ -1,3 +1,9 @@
+/* could be useful
+
+sticky {
+position: sticky;
+top: 0;
+} */
 
 @media (prefers-color-scheme: light) {
 .sector:hover:nth-child(odd) {
